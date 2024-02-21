@@ -15,7 +15,8 @@
           2. pandas.read_csv(chunksize) -  chunks of CSV are read into memory , we can process chunks independently or concatenated in to a single dataframe
           3. dask - open-source parallel computing library for Python
 
-   ![image](https://github.com/Isuri-DA/python-import-export-data/assets/157873079/84a6386f-133d-41a4-9d25-dd1f41fce061)
+  ![image](https://github.com/Isuri-DA/python-import-export-data/assets/157873079/e92fe8ac-cc99-498a-94f7-7af1a3e521a2)
+
 
    ![image](https://github.com/Isuri-DA/python-import-export-data/assets/157873079/11bbd22a-c52e-496a-bb9d-5698eca92cbd)
 
